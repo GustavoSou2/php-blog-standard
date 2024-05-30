@@ -12,13 +12,13 @@ para iniciar o servidor
 ---
 ### Preview
 Tela de cadastro
-![Register](/asset/images/register.png)
+![](https://github.com/GustavoSou2/php-blog-standard/blob/master/asset/images/register.PNG)
 
 Tela de login
-![Register](/asset/images/login.png)
+![](https://github.com/GustavoSou2/php-blog-standard/blob/master/asset/images/login.PNG)
 
 Tela inicial
-![Register](/asset/images/home.png)
+![](https://github.com/GustavoSou2/php-blog-standard/blob/master/asset/images/login.PNG)
 
 Modal de criar postagem
-![Register](/asset/images/register_post.png)
+![](https://github.com/GustavoSou2/php-blog-standard/blob/master/asset/images/register_post.PNG)
