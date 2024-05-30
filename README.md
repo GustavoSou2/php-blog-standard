@@ -18,7 +18,7 @@ Tela de login
 ![](https://github.com/GustavoSou2/php-blog-standard/blob/master/asset/images/login.PNG)
 
 Tela inicial
-![](https://github.com/GustavoSou2/php-blog-standard/blob/master/asset/images/login.PNG)
+![](https://github.com/GustavoSou2/php-blog-standard/blob/master/asset/images/home.PNG)
 
 Modal de criar postagem
 ![](https://github.com/GustavoSou2/php-blog-standard/blob/master/asset/images/register_post.PNG)
