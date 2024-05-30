@@ -12,13 +12,13 @@ para iniciar o servidor
 ---
 ### Preview
 Tela de cadastro
-![Register](asset/images/register.png)
+![Register](/asset/images/register.png)
 
 Tela de login
-![Register](asset/images/login.png)
+![Register](/asset/images/login.png)
 
 Tela inicial
-![Register](asset/images/home.png)
+![Register](/asset/images/home.png)
 
 Modal de criar postagem
-![Register](asset/images/register_post.png)
+![Register](/asset/images/register_post.png)
