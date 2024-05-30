@@ -1,0 +1,22 @@
+{
+  "name": "rr64/app",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "Rr64\\App\\": "src/",
+      "Rr64\\App\\Model\\": "src/model/",
+      "Rr64\\App\\Service\\": "src/service/",
+      "Rr64\\App\\Controller\\": "src/controller/",
+      "Rr64\\App\\Shared\\Handler\\": "src/shared/handler/",
+      "Rr64\\App\\Core\\Database\\": "src/core/Database/"
+    }
+  },
+  "authors": [
+    {
+      "name": "GustavoSou2",
+      "email": "gustavosocial1032@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {}
+}
